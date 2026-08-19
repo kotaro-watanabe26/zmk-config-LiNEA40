@@ -93,16 +93,6 @@
         };
     };
 
-    &lt {
-        flavor = "hold-preferred";
-        tapping-term-ms = <170>;
-    };
-    
-    &mt {
-        flavor = "hold-preferred";
-        tapping-term-ms = <170>;
-    };
-
     keymap {
         compatible = "zmk,keymap";
 
